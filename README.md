@@ -27,14 +27,24 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is the DOM?
+A Direct Object Model
+represents the Html page and allows programs to change and alter it.
 
 2. What is an event?
 
+An event is something that manipulates the page 
+
 3. What is an event listener?
+
+What the event does or how it is performed
 
 4. Why would we convert a NodeList into an Array?
 
+Nodes are array like but not arrays. So in order to do functions for an array it would need to be converted 
+
 5. What is a component?
+
+a code that can be used over and over
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
